@@ -1,0 +1,12 @@
+Bubble Sort Time (Strings): 293744500 nanoseconds
+Selection Sort Time (Strings): 89630700 nanoseconds
+Collection.sort Time (ArrayList): 4285500 nanoseconds
+Bubble Sort Time (Strings): 292531700 nanoseconds
+Selection Sort Time (Strings): 93136400 nanoseconds
+Collection.sort Time (ArrayList): 4268800 nanoseconds
+Bubble Sort Time (Strings): 302243100 nanoseconds
+Selection Sort Time (Strings): 91147800 nanoseconds
+Collection.sort Time (ArrayList): 4184300 nanoseconds
+Bubble Sort Time (Strings): 316459200 nanoseconds
+Selection Sort Time (Strings): 95146200 nanoseconds
+Collection.sort Time (ArrayList): 4211000 nanoseconds
