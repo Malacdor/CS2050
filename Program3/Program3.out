@@ -1,0 +1,11 @@
+4 + 6 * 3.1 -> 4 6 3 . 1 * +
+4 + (6 * 3.1) -> 4 6 3 . 1 * +
+(4 + 6) * 3.1 -> 4 6 + 3 . 1 *
+2 + 3 * 4 -> 2 3 4 * +
+2 & 3 @ 4 -> Error: Unmatched Parens or Invalid Character
+2 + 3 % 4 -> 2 3 4 % +
+2.0 + 3 * 4 -> 2 . 0 3 4 * +
+(2.0 + 3 / 4 -> Error: Unmatched Parens or Invalid Character
+3 + 4 * 2 / ( 1 – 5 ) -> Error: Unmatched Parens or Invalid Character
+3 + 4.0 * 2 / ( 1.0 – 5 ) -> Error: Unmatched Parens or Invalid Character
+42 / 9.2 / 3.1 * 6 -> 4 2 9 . 2 / 3 . 1 / 6 *
